@@ -25,9 +25,11 @@ Skalou's mods for VtolVR
 
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
 
+- here is a short [Youtube tutorial](https://www.youtube.com/watch?v=BkkDR-95mR8)   
+
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
-- In the new open window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
+- In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
 - Search for the texture to be replaced: (clic on the "Name" column for alphabetical ordering for your mental health)  
 	- for the bobblehead: tex_bobbleHead  
 	- for the gloves: tex_newglove  
@@ -40,7 +42,7 @@ Skalou's mods for VtolVR
 - Delete the original "resources.assets"  (you previoulsly saved it in a safe place, right ?)
 - Rename your newly imported "resources-HornetXX.assets" into "resources.assets"  
 - So finally, if done correctly, there is only 1 "resources.assets" file with our moddified textures in it.  
-- You can launch the game, enjoy, and send us a picture on the [VTOL FORMATIONS Discord](https://discord.gg/8wzk3NcZ "VTOL FORMATIONS Discord link")  
+- You can launch the game, enjoy, and send us a picture on the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
 ## Contributors
 
