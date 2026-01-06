@@ -58,6 +58,10 @@ A special thanks to all these people for their help.
 - The Hornet's passionate, including the Guru Jeff
 - Me
 - My mum
-- You
+- You, you can download the ressources from this Github,
+  there are saved textures in .pnd with layers for [PAINT.NET](https://www.getpaint.net/) format and also exported for photoshop .psd,  
+  modify as you will. 
+  
+  
 
 
