@@ -13,15 +13,15 @@ Skalou's mods for VtolVR
 
 - Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
 
-- Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) and unzip it in a working folder.  
-  Select the "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
+- Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) of this mod and unzip it in a working folder.  
+  Select a "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
   
  - **Save the original files that will be modified in VtolVR:**  
   Inside the  VtolVR game install repository:  
    ```...\Steam\steamapps\common\VTOL VR\VTOLVR_Data```
 	- save the file "resources.assets" in a safe place.  
   
-	If you mess with it, you can just delete it and [verify the game install with the Steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
+	If you mess with it, you can also just delete it and [verify the game install with the Steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
  
 - **Just in case if worried, your saved profile (we won't touch it) should be in:**  
    ```%userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData```
@@ -47,7 +47,7 @@ Skalou's mods for VtolVR
 - Export the newly created file to the VtolVR game install (inside ...\VTOL VR\VTOLVR_Data)  
 - Delete the original "resources.assets"  (you previoulsly saved it in a safe place, right ?)
 - Rename your newly imported "resources-HornetXX.assets" into "resources.assets"  
-- So finally, if done correctly, there is only 1 "resources.assets" file with our moddified textures in it.  
+- So finally, if done correctly, in the "VTOLVR_Data" game folder, there is only 1 "resources.assets" file with our modified textures in it.  
 - You can launch the game, enjoy, and send us a picture on the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
 ## Contributors
