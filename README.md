@@ -24,7 +24,7 @@ Skalou's mods for VtolVR
 	If you mess with it, you can also just delete it and [verify the game install with the Steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
  
 - **Just in case if worried, your saved profile, should be in:**  
-   ```%userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData```
+   ```%userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData```  
    You can save these files, but here you can also change your suit colors with the HORNET settings:  
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
 
@@ -73,7 +73,7 @@ A special thanks to all these people for their help.
 - My mum
 - You,  
   you can download the ressources from this Github,
-  there are saved textures in .pnd format with layers for [PAINT.NET](https://www.getpaint.net/) and also exported for photoshop .psd (I don't have it),  
+  there are saved textures in .pnd format with layers for [PAINT.NET](https://www.getpaint.net/) and also an exported version for photoshop .psd (I don't have it),  
   modify as you will. 
   
   
