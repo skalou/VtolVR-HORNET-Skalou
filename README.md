@@ -26,7 +26,10 @@ Skalou's mods for VtolVR
  
 - **Just in case if worried, your saved profile, should be in:**  
 
-   ```%userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData```  
+   ```
+   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
+   ```
+   
    You can save these files, but here you can also change your suit colors with the HORNET settings:  
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
 
