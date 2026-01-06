@@ -6,9 +6,8 @@ Skalou's mods for VtolVR
 
 ![HORNET_3.png](/assets/images/HORNET_3.png)
 
-![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png)
+![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png) ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 
-![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 ----------------------------
 
 ## Installation
