@@ -14,25 +14,17 @@ Skalou's mods for VtolVR
 - Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
 
 - Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) and unzip it in a working folder.  
-  Select the "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")
+  Select the "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
   
-- Save the original files that will be modified in VtolVR:  
- Inside the  VtolVR game install repository:  
->  ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
-     
-- save the file: "resources.assets" in a safe place.  
  If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
- 
+  
  - **Save the original files that will be modified in VtolVR:**
   Inside the  VtolVR game install repository:  
-   ```
- ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
-   ```
+   ```...\Steam\steamapps\common\VTOL VR\VTOLVR_Data```
+	- save the file "resources.assets" in a safe place. 
 
 - **Just in case if worried, your saved profile (we won't touch it) should be in:**:
-   ```
- %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
-   ```
+   ```%userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData```
   
 ### Replace the needed files with UABEAvalonia:
 
