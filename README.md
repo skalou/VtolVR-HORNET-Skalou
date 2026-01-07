@@ -36,7 +36,7 @@
 ### Flight suit colors:
    
   In the profile folder: 
-    ```
+   ```
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
    ```  
    You can edit your suit colors with the HORNET settings in the file "pilots.cfg":   
