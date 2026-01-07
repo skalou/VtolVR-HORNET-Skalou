@@ -62,19 +62,20 @@
 
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
 
-- here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.
+- Here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.
+
+- List of modified objects:
+
+| Obeject  | asset file | type |  name |
+| ------------- | ------------- | ------------- | ------------- |
+| Blobblehead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
+| Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
 
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
 - In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
 - Search for the texture to be replaced:  
-  Clic on the "Name" column for alphabetical ordering for easier search
-
-| Obeject  | asset file | texture name |
-| ------------- | ------------- | ------------- |
-| Blobblehead  | resources.assets  | tex_bobbleHead  |
-| Gloves  | resources.assets  | tex_newglove , tex_newglove_spec (if needed)  |
- 	
+  Clic on the "Name" column for alphabetical ordering for easier search  
 - Clic on the needed texture to be replaced, then clic "Plugins/Edit Texture/OK"  
 - On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornet-Skalou-vX.Y.Z.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
 - Clic "Save", it should close the "Texture Edit" window.  
