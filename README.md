@@ -31,14 +31,23 @@
    ```
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
    ```    
-   You can save these files, but here you can also edit your suit colors with the HORNET settings in "pilots.cfg":  
+   You can save these files too, for safety. 
+   
+### Flight suit colors:
+   
+  In the profile folder: 
+    ```
+   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
+   ```  
+   You can edit your suit colors with the HORNET settings in the file "pilots.cfg":   
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
+
 	```
 	suitColor = (0.1646613, 0.1646613, 0.1646613)  	
 	vestColor = (0.773757, 0.6258824, 0)  
 	gSuitColor = (0.773757, 0.6258824, 0)  
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)
-   ``` 
+   ```  
    
    [Here's a quick video on where to put the values above](https://www.youtube.com/watch?v=eVjFoAYreAY)
    
@@ -73,7 +82,7 @@
 
    
 > [!NOTE]  
-> For now, only the base game aircrafts are affected and the T-55, not the DLC (EF-24G and AH94),
+> For now, only the base game aircrafts and the T-55 are affected for the Bobblehead, not the DLC (EF-24G and AH94),
 > maybe doable in modifying the DLC files, but I haven't tried.
   
 
