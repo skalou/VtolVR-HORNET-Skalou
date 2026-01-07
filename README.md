@@ -71,7 +71,14 @@
   Clic on the "Name" column for alphabetical ordering for your mental health  
 	- for the bobblehead: tex_bobbleHead  
 	- for the gloves: tex_newglove  
-	- etc...  	
+	- etc... 
+
+
+| Obeject  | asset file | texture name |
+| ------------- | ------------- | ------------- |
+| Blobblehead  | resources.assets  | tex_bobbleHead  |
+| Gloves  | resources.assets  | tex_newglove  |
+ 	
 - Clic on the needed texture to be replaced, then clic "Plugins/Edit Texture/OK"  
 - On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornets-XX.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
 - Clic "Save", it should close the "Texture Edit" window.    
