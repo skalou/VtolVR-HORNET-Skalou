@@ -1,4 +1,4 @@
-VtolVR-Skalou-HORNET
+VtolVR-HORNET-Skalou
 
 ## v1.0.2 (2026-01-08)
 -Change texture name organisation

@@ -71,7 +71,7 @@
 | BobbleHead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
 
-### Exemple with the bobblehead:  
+### Example with the bobblehead:  
 
 - Here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.  
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"  
