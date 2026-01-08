@@ -9,6 +9,8 @@
 
 ![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png) ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 
+![Hornet-Helmet-theGh0st-presentation-01.png](Hornet-Helmet-theGh0st-presentation-01.png)
+
 ----------------------------
 
 ## Installation
@@ -70,6 +72,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | BobbleHead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
+| Helmet | resources.assets  | Texture2D  | hqh_dif  |
 
 ### Example with the bobblehead:  
 
