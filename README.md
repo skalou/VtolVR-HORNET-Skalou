@@ -5,13 +5,15 @@
 
 ![HORNET_3.png](/assets/images/HORNET_3.png)
 
-![Hornet-FlightSuit-presentation-01.png](/assets/images/Hornet-FlightSuit-presentation-01.png)
+![Hornet-FlightSuit-presentation-02.png](/assets/images/Hornet-FlightSuit-presentation-02.png)
 
 ![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png) ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 
 ![Hornet-Helmet-theGh0st-presentation-02.png](/assets/images/Hornet-Helmet-theGh0st-presentation-02.png)
 
 ![Hornet-HelmetF45-Mankite-presentation-01.png](/assets/images/Hornet-HelmetF45-Mankite-presentation-01.png)
+  
+![Boots-01.png](/assets/images/Boots-01.png)
   
 ----------------------------
 
@@ -117,7 +119,8 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 | Helmet-F45 | resources.assets  | Texture2D  | tex_f45Helmet  | 974  |  
 | Boots (suit) | resources.assets  | Texture2D  | tex_suit2DetailPng  | 1796  | 
 
-For the Boots, you should change the format from DXT1 to RGBA32 or you will have weird washed colors.
+For the Boots, you should change the texture format from DXT1 to RGBA32 or you will have weird washed colors.
+![RGBA32-01.png](/assets/images/RGBA32-01.png)  
 
 ### Example with the bobblehead:  
 
