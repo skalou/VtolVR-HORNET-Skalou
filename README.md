@@ -115,6 +115,7 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  | 1223, 1074  |  
 | Helmet-Basic | resources.assets  | Texture2D  | hqh_dif  | 745  |  
 | Helmet-F45 | resources.assets  | Texture2D  | tex_f45Helmet  | 974  |  
+| Boots (suit) | sharedassets2.assets  | Texture2D  | tex_suit2DetailPng  | 1796  | 
 
 ### Example with the bobblehead:  
 
