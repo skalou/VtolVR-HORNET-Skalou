@@ -115,7 +115,9 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  | 1223, 1074  |  
 | Helmet-Basic | resources.assets  | Texture2D  | hqh_dif  | 745  |  
 | Helmet-F45 | resources.assets  | Texture2D  | tex_f45Helmet  | 974  |  
-| Boots (suit) | sharedassets2.assets  | Texture2D  | tex_suit2DetailPng  | 1796  | 
+| Boots (suit) | resources.assets  | Texture2D  | tex_suit2DetailPng  | 1796  | 
+
+For the Boots, you should change the format from DXT1 to RGBA32 or you will have weird washed colors.
 
 ### Example with the bobblehead:  
 
@@ -146,6 +148,7 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 
 A special thanks to all these people for their help.
 - Contributors: @theGh0st, @mankite
+-  [neslihancakmak for the boots model](https://www.cgtrader.com/items/4932484/download-page)
 - The people I read modding about and spent too many time on it.
 - The VtolVR creators
 - The Hornet's passionate, including the Guru Jeff

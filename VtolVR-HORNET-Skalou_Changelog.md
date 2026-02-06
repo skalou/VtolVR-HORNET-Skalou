@@ -1,5 +1,9 @@
 VtolVR-HORNET-Skalou
 
+## v1.4.0 (2026-02-07)
+-Add Boots. Thank's @neslihancakmak for the boots model:
+https://www.cgtrader.com/items/4932484/download-page  
+
 ## v1.3.0 (2026-01-18)
 -Add F45 Helmet. Thank's @theGh0st, @mankite
 
